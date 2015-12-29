@@ -1,0 +1,22 @@
+{
+    "name": "node-hog-detector",
+    "version": "0.0.1",
+    "description": "Detects Node hogs on CPU-intensive tasks",
+    "author": {
+        "name": "vankasteelj",
+        "email": "vankasteelj@gmail.com"
+    },
+    "main": "index.js",
+    "license": "GPL-3.0",
+    "keywords": [
+        "detection",
+        "hog",
+        "debug",
+        "freeze",
+        "hangs"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vankasteelj/node-hog-detector.git"
+    }
+}
